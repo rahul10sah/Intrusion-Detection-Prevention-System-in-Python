@@ -4,6 +4,9 @@
 
 This project is a basic Intrusion Detection and Prevention System (IDPS) designed to monitor various activities on a host system, detect suspicious behavior, and alert the user to possible threats in real-time via a GUI and CLI interface. The IDPS includes file system, network, and process monitoring, as well as anomaly detection features.
 
+# Authentication for GUI Inteface
+Password: secure123
+
 # Features
 
 1. Monitor file system changes (create, modify, delete, move) in a specified directory.
